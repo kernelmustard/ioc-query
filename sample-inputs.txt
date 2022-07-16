@@ -1,0 +1,7 @@
+md5^1cd85ec919eedc6894e586bb1d1d44ff
+sha1^28dab7568b38e20e7bbd8fd5a2a166d7d0cea1e1
+sha256^d43bc481741731957b6ebc7c78a37e8344c9199ac2ed0f7f3500a417d4b7cd36
+ip^8.8.8.8
+ip^2001:4860:4860::8844
+domain^dns.google.com
+end^read
